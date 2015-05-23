@@ -122,7 +122,7 @@ class ProfileViewController: UIViewController,ASValueTrackingSliderDelegate,ASVa
         
         ageLabel.text = String(format: "%d yrs", self.currentUser.age)
         
-        heightLabel.text = String(format: "%.f cm", self.currentUser.height)
+        heightLabel.text = String(format: "%d cm", self.currentUser.height)
         
         weightLabel.text = String(format: "%.2f kg", self.currentUser.weight)
         

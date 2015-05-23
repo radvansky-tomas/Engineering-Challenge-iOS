@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import PNChart
 import AMTagListView
 import RealmSwift
 
