@@ -34,8 +34,7 @@ You'll need to build an app that is able to retrieve nutrition information for d
 
 ### TODO
 
-At Holmusk we do our best to go the extra mile and as such you would recieve brownie points if 
-* your app provides simple analytics such as keeping track of a users diet for the day and providing relevant graphs, animations etc.
-* you use Realm instead of core data 
-* you create at least one custom control that uses `IBInspectable` and `IBDesignable`
-* you use  Kimono's API builer (https://www.kimonolabs.com) to extract food related data from MyfitnessPal (https://www.myfitnesspal.com), FatSecrets (http://www.fatsecret.com.sg) or other food websites such as CalorieKing (http://www.calorieking.com).
+This app has quite big potential, so there are couple of other points what I would add in future of its development:
+* All strings in app are hardcoded, next step would be to replace them by nslocalized string + create lozalization.string file
+* Current solution allows users to create their own meals, but there is no option to delete them
+* App was tested only on iphone5s real device
