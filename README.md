@@ -1,11 +1,6 @@
 # iOS-Developer-Challenge
 
 `version 1.6`
-`challenge status: open`
-
-Welcome! We've been expecting you. Holmusk is a big data based high tech company specializing in healthcare in Singapore. 
-
-If you're someone who bleeds code and aches to make a difference in the world, then you are at the right place. You will be part of a world‑class team working on the most exciting ground‑breaking technology in an inspiring and collaborative environment.
 
 ## Basics
 
@@ -37,7 +32,7 @@ You'll need to build an app that is able to retrieve nutrition information for d
 ## Judging Criteria 
 * What you have produced will determine your final outcome. 60% of your product, from our point of view, depends on your User Experience and User Interfaces for this challenge thus we would encourage you to make the best use of the CoreAnimation, QuartzCore and CoreGraphics libraries. Because we love people who have a passion for expanding their horizons, your background with these libraries do not matter so much provided you are able to demonstrate your learning ability! 
 
-### Bonus Points
+### TODO
 
 At Holmusk we do our best to go the extra mile and as such you would recieve brownie points if 
 * your app provides simple analytics such as keeping track of a users diet for the day and providing relevant graphs, animations etc.
